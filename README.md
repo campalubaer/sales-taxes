@@ -1,4 +1,4 @@
-# PROBLEM TWO: SALES TAXES
+# PROBLEM: SALES TAXES
 ***
  Basic sales tax is applicable at a rate of 10% on all goods, except books, food, and medical products that are exempt. Import duty is an additional sales tax applicable on all imported goods at a rate of 5%, with no exemptions.
 
@@ -49,7 +49,7 @@ Write an application that prints out the receipt details for these shopping bask
 ***
 ### How to Run
 To build jar archive file use maven command: mvn clean test install
-***
+
 To run jar archive file use java command: java -jar sales-taxes-0.0.1-SNAPSHOT-jar-with-dependencies.jar
 ***
 ### Testing
