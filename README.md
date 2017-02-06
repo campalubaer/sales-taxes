@@ -54,6 +54,6 @@ To run jar archive file use java command: java -jar sales-taxes-0.0.1-SNAPSHOT-j
 ***
 ### Testing
 Tests are written on JUnit
-
+***
 ### Assumptions
-The three cart example are hardcoding in main class (Application.java)
+The three carts example are hardcoding in main class (Application.java)
